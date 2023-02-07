@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IssueProgressView</string>
+    <string name="title_issues">Issues</string>
+    <string name="hint_search">Enter your query</string>
+</resources>
